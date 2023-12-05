@@ -1,11 +1,11 @@
 pseudo code
 {
-Initial Function()
+Initial Function(updated main.c for feature1)
 {
   //Sample Code
 }
 
-Initial Security()
+Initial Security(updated main.c for feature1)
 {
  //Sample Code
 }
